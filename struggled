@@ -266,5 +266,5 @@ achievementGiver({
     Title = "Struggling",
     Desc = "Help!",
     Reason = "Encounter struggled",
-    Image = "rbxassetid://137104912354391"
+    Image = "rbxassetid://72928416"
 })
