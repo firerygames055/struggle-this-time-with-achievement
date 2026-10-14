@@ -59,12 +59,12 @@ local entity = spawner.Create({
 		Break = true
 	},
 	Death = {
-		Type = "Guiding",
+		Type = "Curious",
 		Hints = {
-			"You died to struggled?",
+			"You died to struggled",
 			"When it appears the room turns red",
 			"Hide when this happens!",
-			"Because struggle is quite a fast entity",
+			"Because struggled is quite a fast entity",
 			"You can do this!",
 			"Good luck!",
 		},
