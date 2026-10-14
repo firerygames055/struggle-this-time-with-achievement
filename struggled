@@ -62,7 +62,7 @@ local entity = spawner.Create({
 		Type = "Curious",
 		Hints = {
 			"I'm suprised you found this place",
-			"Anyway lets seewho you died to",
+			"Anyway lets see who you died to",
 			"This one turns the room red and makes a loud noise",
 			"Maybe you could call it struggled",
 			"You can do this!",
